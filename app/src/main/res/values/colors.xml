@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FFA000</color>
+
+    <color name="material_deep_purple_50">#EDE7F6</color>
+    <color name="material_deep_purple_500">#673AB7</color>
+    <color name="material_deep_purple_700">#512DA8</color>
+
+    <color name="material_green_50">#E8F5E9</color>
+    <color name="material_green_500">#4CAF50</color>
+    <color name="material_green_700">#388E3C</color>
+    <color name="material_green_300">#AED581</color>
+
+    <color name="material_gray_300">#E0E0E0</color>
+    <color name="material_gray_500">#9e9e9e</color>
+
+    <color name="material_lime_a700">#AEEA00</color>
+    <color name="material_purple_a700">#AA00FF</color>
+    <color name="material_red_a200">#FF5252</color>
+
+    <color name="colorwhite">#DEDEDE</color>
+    <color name="lst_bg_male">#c9d5e8</color>
+    <color name="lst_bg_female">#edd3ea</color>
+    <color name="bpBlue">#33b5e5</color>
+    <color name="bpBlue_focused">#c1e8f7</color>
+    <color name="bpDark_gray">#363636</color>
+    <color name="bpDarker_blue">#0099cc</color>
+    <color name="bpDarker_red">#ffc92d2d</color>
+    <color name="bpLight_gray">#404040</color>
+    <color name="bpLine_background">#e0e0e0</color>
+    <color name="bpLine_dark">#808080</color>
+    <color name="bpRed">#ff3333</color>
+    <color name="bpRed_focused">#853333</color>
+    <color name="bpTransparent">#00000000</color>
+    <color name="bpTransparent_black">#7f000000</color>
+    <color name="bpWhite">#ffffff</color>
+    <color name="bp_disabled_day">#f44336</color>
+    <color name="bpblack">#ff000000</color>
+
+    <color name="colorInputTextPrimary">#46e2d0</color>
+    <color name="colorInputTextPDark">#247c72</color>
+    <color name="colorInputTextAccent">#282828</color>
+    <color name="colorInputTexthint">#999999</color>
+    <color name="colorAlphaBlack">#AA282828</color>
+    <color name="colorButtonBg">#CDCDCD</color>
+
+
+</resources>
